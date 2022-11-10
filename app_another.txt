@@ -1,0 +1,5 @@
+add another app.set
+
+switch app at another function
+
+another function changed
